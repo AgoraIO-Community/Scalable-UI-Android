@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scalable UI</string>
+    <string name="stats_placeholder">Number of Bytes Received will be displayed here</string>
+</resources>
