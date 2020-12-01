@@ -7,16 +7,12 @@
 </p>
 
 ## 📝 Table of Contents
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Screenshots](#screenshots)
+- [More Details](#more_details)
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 1.	Android Studio
 2.	An Agora developer account (see [How To Get Started with Agora](https://www.agora.io/en/blog/how-to-get-started-with-agora?utm_source=medium&utm_medium=blog&utm_campaign=building_scalable_ui_for_android_using_agora))
 
@@ -28,8 +24,8 @@ You will need to add your credentials:
 For the token, you can get a temporary token by following [this guide](https://docs.agora.io/en/Agora%20Platform/token?platform=Android#generate-a-token). 
 For production use cases, you will need to [setup a token server](https://docs.agora.io/en/Video/token_server?platform=Android&changePlatformAlert=Android).
 
-## Screenshot
+## Screenshots <a name="screenshots"></a>
 ![Screenshot](https://github.com/samyak-jain/Scalable-UI-Android/blob/assets/screenshot.jpeg)
 
-## More Details
+## More Details <a name="more_details"></a>
 You can read our blog which talks more about the internal working of the application and how it was built
