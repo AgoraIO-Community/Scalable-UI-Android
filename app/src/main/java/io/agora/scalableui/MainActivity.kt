@@ -98,7 +98,7 @@ class MainActivity : AppCompatActivity() {
                     // We are using the handler since UI Changes need to be run on the UI Thread
                     handler.post {
 
-                        // When the the number of remote users grows to 4, we switch to the lower stream
+                        // When the number of remote users grows to 4, we switch to the lower stream
                         // When this happens, we will now be using a lower resolution and bitrate to save on bandwidth
                         if (uidList.size == 4) {
                             mRtcEngine?.setRemoteDefaultVideoStreamType(Constants.VIDEO_STREAM_LOW)
