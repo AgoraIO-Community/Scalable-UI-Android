@@ -29,4 +29,5 @@ For production use cases, you will need to [setup a token server](https://docs.a
 ![Screenshot](https://github.com/samyak-jain/Scalable-UI-Android/blob/assets/screenshot.jpeg)
 
 ## More Details <a name="more_details"></a>
-You can read our blog which talks more about the internal working of the application and how it was built
+You can read our blog which talks more about the internal working of the application and how it was built here: 
+https://www.agora.io/en/blog/building-scalable-ui-for-android-using-agora/ 
