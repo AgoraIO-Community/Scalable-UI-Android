@@ -1,3 +1,4 @@
+![Banner](https://github.com/samyak-jain/Scalable-UI-Android/blob/assets/banner.png)
 <h3 align="center">Scalable UI (Android)</h3>
 
 ---
