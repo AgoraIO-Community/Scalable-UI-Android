@@ -48,7 +48,7 @@ class RemoteViewAdapter(private val uidList: ArrayList<Int>, private val mRtcEng
         val uid = (holder.frame.getChildAt(0) as SurfaceView).tag as Int
 
         // We mute the remote video stream of the UID
-        mRtcEngine?.muteRemoteVideoStream(uid, false)
+        mRtcEngine?.muteRemoteVideoStream(uid, true)
     }
 
     override fun getItemCount() = uidList.size
